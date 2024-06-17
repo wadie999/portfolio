@@ -1,55 +1,78 @@
-# Data Scientist
+# R&D AI Engineer apprentice
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+### Technical Skills: Python, Pytorch, GCP, Docker, Git.
 
-## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
-
+## Education								       		
+- M.S., **Artificial intelligence**	| The University of Paul Sabatier (_2023 - Present_)	 			        		
+- B.S., **Computer Science** | The University of Clermont-Ferrand (2023)
+- **Preparatory classes** | Descartes High school, Tours, France (_2020 - 2022_)
 ## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+**R&D AI Engineer  @Made In Tracker (_June 2023 - Present_)**
+- Accelerating the creation of digital product passports using AI, advancing sustainability and paving the way for Industry 5.0 standards.
+- End-to-end development of explainable AI systems in computer vision and NLP, focusing on state-of-the-art methods to ensure transparency and trust.
 
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+**Data Scientist in Marketing @Limagrain (2023)**
+- Analysis of market share evolution and measurement of the impact of each business lever.
+- Identification of competitors' pricing rules to improve our price positioning.
 
 ## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+## Text-to-SQL Research Initiative (2024) [Article](https://github.com/wadie999/master-notes/blob/main/research%20Initiatives/docs/sota.pdf)
+The Text-to-SQL Research Initiative at Université Toulouse III - Paul Sabatier supervised by Mr MORENO Jose, is a scholarly effort focused on the theoretical aspects of translating natural language into SQL queries. This initiative involved a comprehensive survey and state-of-the-art review of the Text-to-SQL field, critically assessing existing datasets, benchmarks, and evaluation metrics.
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+![EEG Band Discovery](/assets/img/text2sql.png)
 
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
 
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
+## Audio Classification (2024) [Github Project](https://github.com/wadie999/master-notes/tree/main/audio-classification) + [Article](https://github.com/wadie999/master-notes/blob/main/audio-classification/docs/audio%20class%20paper.pdf)
+Conducted comparative research on the performance of Multilayer Perceptron (MLP) and Convolutional Neural Network (CNN) architectures for classifying audio files from the ESC-10 dataset. This study involved transforming audio classification into spectrogram image classification, employing PyTorch for deep learning model development.
 
-![Bike Study](/assets/img/bike_study.jpeg)
+![EEG Band Discovery](/assets/img/spectogram_imgs.png)
 
-## Talks & Lectures
-- Causality: The new science of an old question - GSP Seminar, Fall 2021
-- Guest Lecture: Dimensionality Reduction - Big Data and Machine Learning for Scientific Discovery (PHYS 5336), Spring 2021
-- Guest Lecture: Fourier and Wavelet Transforms - Scientific Computing (PHYS 5315), Fall 2020
-- A Brief Introduction to Optimization - GSP Seminar, Fall 2019
-- Weeks of Welcome Poster Competition - UTD, Fall 2019
-- A Brief Introduction to Networks - GSP Seminar, Spring 2019
 
-- [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
+## Traveling Salesman Problem (2024) [Github Project](https://github.com/wadie999/master-notes/tree/main/algorithmics/salesman)
 
-## Publications
-1. Talebi S., Lary D.J., Wijeratne L. OH., and Lary, T. Modeling Autonomic Pupillary Responses from External Stimuli Using Machine Learning (2019). DOI: 10.26717/BJSTR.2019.20.003446
-2. Wijeratne, L.O.; Kiv, D.R.; Aker, A.R.; Talebi, S.; Lary, D.J. Using Machine Learning for the Calibration of Airborne Particulate Sensors. Sensors 2020, 20, 99.
-3. Lary, D.J.; Schaefer, D.; Waczak, J.; Aker, A.; Barbosa, A.; Wijeratne, L.O.H.; Talebi, S.; Fernando, B.; Sadler, J.; Lary, T.; Lary, M.D. Autonomous Learning of New Environments with a Robotic Team Employing Hyper-Spectral Remote Sensing, Comprehensive In-Situ Sensing and Machine Learning. Sensors 2021, 21, 2240. https://doi.org/10.3390/s21062240
-4. Zhang, Y.; Wijeratne, L.O.H.; Talebi, S.; Lary, D.J. Machine Learning for Light Sensor Calibration. Sensors 2021, 21, 6259. https://doi.org/10.3390/s21186259
-5. Talebi, S.; Waczak, J.; Fernando, B.; Sridhar, A.; Lary, D.J. Data-Driven EEG Band Discovery with Decision Trees. Preprints 2022, 2022030145 (doi: 10.20944/preprints202203.0145.v1).
-6. Fernando, B.A.; Sridhar, A.; Talebi, S.; Waczak, J.; Lary, D.J. Unsupervised Blink Detection Using Eye Aspect Ratio Values. Preprints 2022, 2022030200 (doi: 10.20944/preprints202203.0200.v1).
-7. Talebi, S. et al. Decoding Physical and Cognitive Impacts of PM Concentrations at Ultra-fine Scales, 29 March 2022, PREPRINT (Version 1) available at Research Square [https://doi.org/10.21203/rs.3.rs-1499191/v1]
-8. Lary, D.J. et al. (2022). Machine Learning, Big Data, and Spatial Tools: A Combination to Reveal Complex Facts That Impact Environmental Health. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_12
-9. Wijerante, L.O.H. et al. (2022). Advancement in Airborne Particulate Estimation Using Machine Learning. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_13
+This project presents two methodologies for solving the Traveling Salesman Problem (TSP): a metaheuristic approach implemented in Python and the use of the SCIP optimization suite with ZIMPL modeling language.
 
-- [Data Science Blog](https://medium.com/@shawhin)
+![Bike Study](/assets/img/animation.gif)
+
+## RAG Chatbot (2023) [Github Project](https://github.com/wadie999/Chat-Bot)
+
+
+In one week with a startup at Bordeaux, I developed a custom RAG API integrating the **LangChain** library, aimed at optimizing text retrieval from large documents for specific use cases. This project involved setting up a robust API environment, ensuring efficient management and retrieval of text data.
+
+![EEG Band Discovery](/assets/img/langchain.png)
+
+## N-Body Simulation (2023) [Github Project](https://github.com/wadie999/master-notes/tree/main/parallelism/mpi/n-bodies) + [Report](https://github.com/wadie999/master-notes/blob/main/parallelism/mpi/n-bodies/docs/nbodies-Report-ELAMRANI.pdf)
+
+
+Development of an N-Body simulation to model celestial body dynamics under gravitational forces, using Python and MPI for both sequential and parallel computations. This project demonstrated critical enhancements in simulating and visualizing the interactive dynamics of celestial objects.
+
+![Bike Study](/assets/img/nbody.png)
+
+## Heartbeat Classification Project (2023) [Github Project](https://github.com/wadie999/master-notes/tree/main/machine-learning/heart%20sound%20classification) + [Report](https://github.com/wadie999/master-notes/blob/main/machine-learning/heart%20sound%20classification/report-heart.pdf)
+
+
+Developed at Université Toulouse III - Paul Sabatier, this project employs machine learning techniques to classify heartbeats into different types—normal, murmurs, and artifacts—from audio recordings. Utilizing both supervised (Random Forest, SVM, k-NN) and unsupervised (KMeans) learning approaches, the project effectively identifies and classifies cardiac sounds, enhancing diagnostic capabilities for early detection of heart anomalies.
+
+![Bike Study](/assets/img/heart.png)
+
+## Beatbox Sound Recognition Project (2023) [Github Project](https://github.com/wadie999/master-notes/tree/main/machine-learning/beatbox-sound-classification) + [Report](https://github.com/wadie999/master-notes/blob/main/machine-learning/beatbox-sound-classification/projet_beatbox-5.pdf)
+
+
+The Beatbox Sound Recognition Project at Université Toulouse III - Paul Sabatier focuses on the recognition and classification of beatbox sound samples using advanced machine learning algorithms. Leveraging Support Vector Machines (SVM) and K-Means clustering, along with Principal Component Analysis (PCA) for dimensionality reduction, the project showcases the application of machine learning in processing and categorizing complex audio data, offering new avenues in digital music analysis and creative endeavors.
+
+![Bike Study](/assets/img/beatbox.png)
+
+## Edmonds-Karp Algorithm (2022) [Notebook](https://github.com/wadie999/Edmond-karp/blob/main/Edmond%20(1)%20(1).ipynb) + [Report](https://github.com/wadie999/Edmond-karp/blob/main/edmond_karp%20(3)%20(1).pdf)
+
+
+This project at Université Clermont Auvergne, under supervision of Mr LIMOUZY Vincent, involves the implementation of the Edmonds-Karp algorithm, an optimized approach to the Ford-Fulkerson method for computing maximum flow in a flow network. The project focused on utilizing a dictionary-based graph structure for simplicity and effectiveness in managing flow networks. The implementation was tested on various graph sizes to analyze the algorithm's complexity and efficiency, demonstrating its practical application in solving network flow problems.
+
+![Bike Study](/assets/img/karp.png)
+
+## Graphic Communication Protocol Design (2022) [Notebook](https://github.com/wadie999/Protocole-communication-graphique-reseaux/blob/main/protocol_2.py) + [Report](https://github.com/wadie999/Protocole-communication-graphique-reseaux/blob/main/Rapport%20projet.pdf)
+
+This project tasked us with creating a communication protocol from scratch. My partner and I chose to innovate by using triangles instead of the traditional rectangular units, like those used in QR codes. This decision led us to explore the concept of "pavage de triangles," or tiling with triangles. We implemented this idea by developing a system that recursively paves smaller triangles within a larger triangular framework, each serving as a distinct unit of encoded data. 
+
+![Bike Study](/assets/img/protocol.png)
+

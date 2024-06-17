@@ -3,15 +3,18 @@
 ### Technical Skills: Python, Pytorch, GCP, Docker, Git.
 
 ## Education								       		
-- M.S., **Artificial intelligence**	| The University of Paul Sabatier (_2023 - Present_)	 			        		
-- B.S., **Computer Science** | The University of Clermont-Ferrand (2023)
-- **Preparatory classes** | Descartes High school, Tours, France (_2020 - 2022_)
+- **M.S. Artificial intelligence**| The University of Paul Sabatier (_2023 - Present_)	 			        		
+- **B.S. Computer Science**| The University of Clermont Auvergne (2023)
+- **Preparatory classes**| Descartes High school, Tours, France (_2020 - 2022_)
+
 ## Work Experience
 **R&D AI Engineer  @Made In Tracker (_June 2023 - Present_)**
+
 - Accelerating the creation of digital product passports using AI, advancing sustainability and paving the way for Industry 5.0 standards.
 - End-to-end development of explainable AI systems in computer vision and NLP, focusing on state-of-the-art methods to ensure transparency and trust.
 
 **Data Scientist in Marketing @Limagrain (2023)**
+
 - Analysis of market share evolution and measurement of the impact of each business lever.
 - Identification of competitors' pricing rules to improve our price positioning.
 

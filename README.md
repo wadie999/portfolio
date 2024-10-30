@@ -1,6 +1,5 @@
 # R&D AI Engineer apprentice
 
-### Technical Skills: Python, Pytorch, GCP, Docker, Git.
 
 ## Education								       		
 - **M.S. Artificial intelligence**| The University of Paul Sabatier (_2023 - Present_)	 			        		
